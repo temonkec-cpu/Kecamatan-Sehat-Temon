@@ -102,11 +102,11 @@ export function App() {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div className="md:col-span-2 space-y-3">
               <div className="flex items-center gap-2">
-                <div className="w-8 h-8 rounded-lg bg-[#C59B27] flex items-center justify-center font-serif font-black text-sm text-[#1B3B2B]">
-                  KS
+                <div className="w-8 h-8 rounded-lg bg-[#C59B27] flex items-center justify-center font-serif font-black text-xs text-[#1B3B2B]">
+                  ST
                 </div>
                 <span className="font-serif font-bold text-lg text-white">
-                  SEHAT<span className="text-[#C59B27]">MON</span>
+                  SWASTI<span className="text-[#C59B27]">-Temon</span>
                 </span>
               </div>
               <p className="text-xs text-gray-400 leading-relaxed max-w-sm">

@@ -1,4 +1,4 @@
-# SEHATMON - Portal Bukti Dukung Kecamatan Sehat Kapanewon Temon
+# SWASTI-Temon — Portal Bukti Dukung Kecamatan Sehat Kapanewon Temon
 
 Web aplikasi terpadu untuk pengunggahan, pemantauan, dan verifikasi berkas bukti dukung 7 Tatanan Kabupaten/Kota Sehat (KKS) di wilayah Kapanewon Temon, Kulon Progo.
 

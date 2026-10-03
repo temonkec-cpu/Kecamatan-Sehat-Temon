@@ -38,13 +38,13 @@ export const Navbar: React.FC<NavbarProps> = ({ currentUser, onSwitchUser, onOpe
           <div className="flex items-center gap-3">
             <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-[#C59B27] to-[#8F6F19] p-0.5 shadow-lg shadow-[#C59B27]/20 flex items-center justify-center">
               <div className="w-full h-full bg-[#1B3B2B] rounded-[10px] flex items-center justify-center">
-                <span className="font-serif font-black text-xl tracking-tighter text-[#C59B27]">KS</span>
+                <span className="font-serif font-black text-lg tracking-tighter text-[#C59B27]">ST</span>
               </div>
             </div>
             <div>
               <div className="flex items-center gap-2">
                 <h1 className="font-serif font-bold text-xl tracking-tight text-white">
-                  SEHAT<span className="text-[#C59B27]">MON</span>
+                  SWASTI<span className="text-[#C59B27]">-Temon</span>
                 </h1>
                 <span className="bg-[#C59B27]/20 border border-[#C59B27]/40 text-[#C59B27] text-[10px] font-extrabold uppercase px-2 py-0.5 rounded-full">
                   KKS 2026
